@@ -1,0 +1,401 @@
+doct_Id,dept_Id,FName,LName,Gender,contact_No,surgeon_Type,office_No
+1001,101,Dr. Najeeb,Basir,M,+92 3226702403,General Surgeon,1
+1002,101,Dr. Kamran,Ahmed,M,+92 3509542256,Trauma Surgeon,1
+1003,101,Dr. Sheikh,M. Ilyas,M,+92 3091755242,Cardiothoracic Surgeon,2
+1004,101,Dr. Hanif,Kamal,M,+92 3581729194,Neurosurgeon,2
+1005,101,Dr. Muhammad,Haroon Hamid,M,+92 3242799723,Orthopedic Surgeon,3
+1006,101,Dr. Sana,Farooq,F,+92 3196502416,Plastic Surgeon,3
+1007,101,Dr. Amna,Najeeb,F,+92 3161052771,Pediatric Surgeon,3
+1008,102,Dr. Tahir,Hamid,M,+92 3533852372,Vascular Surgeon,21
+1009,102,Dr. Muhammad,Saleem Ahmad Siddiqui,M,+92 3596557907,Colorectal Surgeon,21
+1010,102,Dr. Sehran,Bhatti,M,+92 3160554994,Transplant Surgeon,22
+1011,102,Dr. Hafsa,Shezad,F,+92 3081566713,Oncologic Surgeon,22
+1012,102,Dr. Asiya,Rehman,F,+92 3213485755,Endocrine Surgeon,22
+1013,103,Dr. Saifullah,Mir,M,+92 3044975087,Urologic Surgeon,36
+1014,103,Dr. Asif,Abbas Naqvi,M,+92 3418235781,Gynecologic Surgeon,36
+1015,103,Dr. Saba,Asad Ansari,F,+92 3260892238,Hepatobiliary Surgeon,36
+1016,104,Dr. Kamran,Zaidi,M,+92 3184230194,Bariatric Surgeon,51
+1017,104,Dr. Muhammad,Numair Younis,M,+92 3109510740,Ophthalmic Surgeon,51
+1018,104,Dr. Sonia,Ali,F,+92 3390111485,Otolaryngologic (ENT) Surgeon,52
+1019,104,Dr. Sara,Rasul,F,+92 3261404815,Maxillofacial Surgeon,52
+1020,105,Dr. Waqas,Javed,M,+92 3187139066,Thoracic Surgeon,66
+1021,105,Dr. Shahbaz,Ali,M,+92 3559695698,HAnd Surgeon,66
+1022,105,Dr. Abida,Raza,F,+92 3257844193,Foot And Ankle Surgeon,67
+1023,105,Dr. Shazia,Fakhar,F,+92 3556846194,Spinal Surgeon,67
+1024,106,Dr. Muhammad,Imran,M,+92 3123586198,Craniofacial Surgeon,81
+1025,106,Dr. Abdul,Haleem,M,+92 3372250452,Reconstructive Microsurgeon,81
+1026,106,Dr. Tania,Shaikh,F,+92 3162625272,Laparoscopic Surgeon,81
+1027,107,Dr. Raza,Hasnain,M,+92 3348510548,Robotic Surgeon,96
+1028,107,Dr. Aqib,Sohail,M,+92 3243290679,Gastrointestinal Surgeon,96
+1029,107,Dr. Abdul,Wahab Yousafzai,M,+92 3065634959,Fetal Surgeon,97
+1030,107,Dr. Azib,Aftab,M,+92 3424792020,Neonatal Surgeon,97
+1031,107,Dr. Imran,Jawaid,M,+92 3368898597,Dermatologic Surgeon,98
+1032,107,Dr. Atta,Ur Rehman,M,+92 3028850250,Emergency Surgeon,98
+1033,107,Dr. Arsalan,Ahmad,M,+92 3020687359,Proctologic Surgeon,99
+1034,107,Dr. Shafiq,Yasin,M,+92 3341630386,Burn Surgeon,99
+1035,107,Dr. Khawar,Abbas Chaudhry,M,+92 3214113617,Oral Surgeon,100
+1036,107,Dr. Rajesh,Kumar Khatri,M,+92 3340107662,Peripheral Nerve Surgeon,100
+1037,107,Dr. Zulfiqar,Haider,M,+92 3472202015,Transoral Surgeon,101
+1038,107,Dr. Javaid,Iqbal Khattak,M,+92 3582421559,Chest Wall Surgeon,101
+1039,107,Dr. Muhammad,Ahmed Raza Butt,M,+92 3014818939,General Surgeon,102
+1040,107,Dr. Afsar,Ali Bhatti,M,+92 3129728651,Trauma Surgeon,102
+1041,107,Dr. Shahid,Sami,M,+92 3210006771,Cardiothoracic Surgeon,103
+1042,107,Dr. Muhammad,Muzaffar Mahmood,M,+92 3415034546,Neurosurgeon,103
+1043,107,Dr. Ghulam,Mujtaba Zafar,M,+92 3138409299,Orthopedic Surgeon,104
+1044,107,Dr. Zahid,Iqbal,M,+92 3035007961,Plastic Surgeon,104
+1045,107,Dr. Asim,Ateeq,M,+92 3217918013,Pediatric Surgeon,105
+1046,107,Dr. Khawar,Abbas,M,+92 3592213060,Vascular Surgeon,105
+1047,107,Dr. Muhammad,Moinuddin,M,+92 3052030984,Colorectal Surgeon,106
+1048,107,Dr. Imran,Ijaz Haider,M,+92 3331532604,Transplant Surgeon,106
+1049,107,Dr. Athar,Niaz Rana,M,+92 3496072213,Oncologic Surgeon,107
+1050,107,Dr. Muhammad,Javid Bhutta,M,+92 3534723440,Endocrine Surgeon,107
+1051,107,Dr. Syed,Hassan Abid,M,+92 3156340494,Urologic Surgeon,108
+1052,107,Dr. Aqeel,Ahmed Shaikh,M,+92 3015398898,Gynecologic Surgeon,108
+1053,107,Dr. Musab,Riaz,M,+92 3189329471,Hepatobiliary Surgeon,109
+1054,107,Dr. Muhammad,Shahzad,M,+92 3448619623,Bariatric Surgeon,109
+1055,107,Dr. Ashraf,Jamal,M,+92 3314009258,Ophthalmic Surgeon,110
+1056,107,Dr. Asad,Akram Faruqi,M,+92 3352069079,Otolaryngologic (ENT) Surgeon,110
+1057,107,Dr. Mahmud,Haider Javed,M,+92 3369623298,Maxillofacial Surgeon,111
+1058,107,Dr. Muhammad,Zubair,M,+92 3501103300,Thoracic Surgeon,111
+1059,107,Dr. Rashid,Akram,M,+92 3585210092,HAnd Surgeon,112
+1060,107,Dr. Muhammad,Amir,M,+92 3395530185,Foot And Ankle Surgeon,112
+1061,107,Dr. Sarfraz,Latif,M,+92 3519514526,Spinal Surgeon,112
+1062,107,Dr. Muhammad,Iqbal,M,+92 3139805967,Craniofacial Surgeon,112
+1063,107,Dr. Rizwan,Khan,M,+92 3520176989,Reconstructive Microsurgeon,113
+1064,107,Dr. Muhammad,Shahzad,M,+92 3390813700,Laparoscopic Surgeon,113
+1065,107,Dr. Muhammad,Imtiaz,M,+92 3495900749,Robotic Surgeon,113
+1066,107,Dr. Rehan,Bin Asif,M,+92 3333011189,Gastrointestinal Surgeon,113
+1067,107,Dr. Farouk,Atiq Babri,M,+92 3535506229,Fetal Surgeon,114
+1068,107,Dr. Fawad,Ahmad Randhawa,M,+92 3261097106,Neonatal Surgeon,114
+1069,107,Dr. Amjad,Ali Bukhari,M,+92 3594416889,Dermatologic Surgeon,114
+1070,107,Dr. Humayoon,Sarwat,M,+92 3527028949,Emergency Surgeon,114
+1071,107,Dr. Seema,Asif,F,+92 3440785149,Proctologic Surgeon,115
+1072,107,Dr. Saba,Shabbir Sheikh,F,+92 3145612777,Burn Surgeon,115
+1073,107,Dr. Lubna,Habib,F,+92 3153196042,Oral Surgeon,115
+1074,107,Dr. Zahra,Shah,F,+92 3513704861,Peripheral Nerve Surgeon,115
+1075,107,Dr. Ayesha,Ashfaq,F,+92 3394103247,Transoral Surgeon,116
+1076,107,Dr. Amna,Tariq,F,+92 3528050754,Chest Wall Surgeon,116
+1077,107,Dr. Urooj,Naz,F,+92 3073761282,General Surgeon,116
+1078,107,Dr. Tayyaba,Iqbal,F,+92 3508895469,Trauma Surgeon,116
+1079,108,Dr. Mehboob,Chhipa,M,+92 3471486774,Cardiothoracic Surgeon,126
+1080,108,Dr. Anwar,Zeb Khan,M,+92 3598236341,Neurosurgeon,126
+1081,108,Dr. Tahir,Siddique,M,+92 3150939417,Orthopedic Surgeon,127
+1082,108,Dr. Ahmed,Ali,M,+92 3496547160,Plastic Surgeon,127
+1083,108,Dr. Muhammad,Arshad,M,+92 3228919638,Pediatric Surgeon,128
+1084,108,Dr. Syed,Ahmad Sultan Ali,M,+92 3210217716,Vascular Surgeon,128
+1085,108,Dr. Sabahat,Hameed,F,+92 3536687886,Colorectal Surgeon,129
+1086,108,Dr. Huma,Husnain,F,+92 3499951508,Transplant Surgeon,129
+1087,108,Dr. Rukhsana,Babar,F,+92 3319073692,Oncologic Surgeon,130
+1088,108,Dr. Bushra,Ammad Taimuri,F,+92 3430714216,Endocrine Surgeon,130
+1089,108,Dr. Maria,Syed,F,+92 3428185217,Urologic Surgeon,131
+1090,108,Dr. Sajida,Imran,F,+92 3251358881,Gynecologic Surgeon,131
+1091,108,Dr. Sadia,Sarwar,F,+92 3278210961,Hepatobiliary Surgeon,132
+1092,108,Dr. Bushra,Shahida,F,+92 3549876965,Bariatric Surgeon,132
+1093,109,Dr. Javaid,Iqbal,M,+92 3086026199,Ophthalmic Surgeon,146
+1094,109,Dr. Junaid,Khan Lodhi,M,+92 3388796459,Otolaryngologic (ENT) Surgeon,146
+1095,109,Dr. Shamaila,Tanveer,F,+92 3477360560,Maxillofacial Surgeon,147
+1096,109,Dr. Ghazia,Qasmi,F,+92 3312718198,General Surgeon,147
+1097,109,Dr. Zeba,I. Matin,F,+92 3203064114,Trauma Surgeon,147
+1098,110,Dr. Fauzia,Faridi,F,+92 3578279830,Cardiothoracic Surgeon,161
+1099,110,Dr. Kanza,Sohail,F,+92 3520519062,Neurosurgeon,161
+1100,110,Dr. Riffat,Saeed,F,+92 3505739437,Orthopedic Surgeon,162
+1101,110,Dr. Aisha,Jamil,F,+92 3072536627,Plastic Surgeon,162
+1102,110,Dr. Neelofar,Leghari,F,+92 3107904116,Pediatric Surgeon,163
+1103,110,Dr. Mehmooda,Wasim,F,+92 3077263167,Vascular Surgeon,163
+1104,110,Dr. Shazia,Sheikh,F,+92 3562427740,Colorectal Surgeon,164
+1105,110,Dr. Amtullah,Zarreen,F,+92 3059830092,Transplant Surgeon,164
+1106,111,Dr. Kishwar,Nazli,M,+92 3503098178,Oncologic Surgeon,176
+1107,111,Dr. Nasir,Sulaiman,M,+92 3368721737,Endocrine Surgeon,176
+1108,111,Dr. Sadia,Zulfiqar Cheema,F,+92 3153691076,Urologic Surgeon,177
+1109,111,Dr. Sadia,Aziz,F,+92 3457201792,Gynecologic Surgeon,177
+1110,111,Dr. Quratul,Ain Sajida,F,+92 3260532925,Hepatobiliary Surgeon,177
+1111,112,Dr. Furqan,Ahmed,M,+92 3424094366,Bariatric Surgeon,191
+1112,112,Dr. Tahir,A. Shah,M,+92 3241490711,Ophthalmic Surgeon,191
+1113,112,Dr. Noreen,Iftikhar Bano,F,+92 3209074266,Otolaryngologic (ENT) Surgeon,192
+1114,112,Dr. Samia,Malik,F,+92 3241148333,Maxillofacial Surgeon,192
+1115,112,Dr. Tazeen,Muneer,F,+92 3275475011,Thoracic Surgeon,193
+1116,112,Dr. Tayyaba,Iqbal,F,+92 3456251914,HAnd Surgeon,193
+1117,113,Dr. Muhammad,Hassaan Ali,M,+92 3331155472,Foot And Ankle Surgeon,206
+1118,113,Dr. Siri,ChAnd,F,+92 3339907526,Spinal Surgeon,206
+1119,113,Dr. Samina,Hayat,F,+92 3235418820,Craniofacial Surgeon,207
+1120,113,Dr. Nida,Wahid,F,+92 3510401755,Reconstructive Microsurgeon,207
+1121,113,Dr. Samina,Siddique,F,+92 3095583269,Laparoscopic Surgeon,207
+1122,114,Dr. Wajid,Yar Khan,M,+92 3391070450,Robotic Surgeon,221
+1123,114,Dr. Atiq,Ahmed Khan,M,+92 3329386545,Gastrointestinal Surgeon,221
+1124,114,Dr. Farha,Idris,F,+92 3084492779,Fetal Surgeon,222
+1125,114,Dr. Umber,Jalil Bakhtiar,F,+92 3450549295,Neonatal Surgeon,222
+1126,115,Dr. Usman,Ali Rahman,M,+92 3138719069,Dermatologic Surgeon,236
+1127,115,Dr. Abu,Noem Faruqui,M,+92 3427442694,Emergency Surgeon,236
+1128,115,Dr. Ismail,Hirani,M,+92 3078448635,Proctologic Surgeon,237
+1129,115,Dr. Kiran,Usman,F,+92 3353861269,Burn Surgeon,237
+1130,115,Dr. Anila,Jamshed,F,+92 3252925213,Oral Surgeon,237
+1131,116,Dr. Syed,Nauman Bazmi Inam,M,+92 3159218611,Peripheral Nerve Surgeon,251
+1132,116,Dr. Muhammad,Saeed Alam,M,+92 3030741876,Transoral Surgeon,251
+1133,116,Dr. Omer,Ehsan,M,+92 3534702703,Chest Wall Surgeon,252
+1134,116,Dr. Nauman,Ahmed,M,+92 3586282082,General Surgeon,252
+1135,116,Dr. Khalid,Umar Gill,M,+92 3160570751,Trauma Surgeon,253
+1136,116,Dr. Muhammad,Ayaz Mir,M,+92 3199540311,Cardiothoracic Surgeon,253
+1137,116,Dr. Syed,Imtiaz Ali,M,+92 3387052978,Neurosurgeon,254
+1138,116,Dr. Waseem,Rehman,M,+92 3378993773,Orthopedic Surgeon,254
+1139,116,Dr. Salman,Ahmad Saleem,M,+92 3029449731,Plastic Surgeon,255
+1140,116,Dr. Ahmad,Fawad Ali,M,+92 3248393806,Pediatric Surgeon,255
+1141,116,Dr. Faisal,Qamar,M,+92 3493279428,Vascular Surgeon,256
+1142,116,Dr. Mussadiq,Khan,M,+92 3509973055,Colorectal Surgeon,256
+1143,116,Dr. Sadaf,Yousaf,F,+92 3143802768,Transplant Surgeon,257
+1144,116,Dr. Saima,Aziz,F,+92 3492390657,Oncologic Surgeon,257
+1145,116,Dr. Rohina,Gul,F,+92 3594912899,Endocrine Surgeon,258
+1146,116,Dr. Hina,Rahim,F,+92 3453833190,Urologic Surgeon,258
+1147,117,Dr. Nabeel,Iqbal,M,+92 3033828508,General Surgeon,250
+1148,117,Dr. Rameez,Chaudhary,M,+92 3082794680,Trauma Surgeon,251
+1149,117,Dr. Imran,Hameed,M,+92 3012538245,Cardiothoracic Surgeon,253
+1150,117,Dr. Abu,Bakar Hafeez Bhatti,M,+92 3166186597,Neurosurgeon,254
+1151,117,Dr. Muhammad,Faiq,M,+92 3375104786,Orthopedic Surgeon,256
+1152,117,Dr. Talha,Abdul Halim,M,+92 3497412269,Plastic Surgeon,257
+1153,117,Dr. Aamir,Jalil,M,+92 3467401888,Pediatric Surgeon,259
+1154,117,Dr. Pervez,Iqbal,M,+92 3432900853,Vascular Surgeon,261
+1155,117,Dr. Zafar,Fayyaz,M,+92 3564077891,Colorectal Surgeon,262
+1156,117,Dr. Muhammad,Karamat,M,+92 3550939565,Transplant Surgeon,264
+1157,117,Dr. Muhammad,Aamir Saghir,M,+92 3589332315,Oncologic Surgeon,265
+1158,117,Dr. Mohammad,Iqbal Adil,M,+92 3585305471,Endocrine Surgeon,267
+1159,117,Dr. Ajmal,Hasan Naqvi,M,+92 3253709798,Urologic Surgeon,268
+1160,117,Dr. Rab,Nawaz Ali,M,+92 3073587201,Gynecologic Surgeon,270
+1161,117,Dr. Syed,Mehmood-ul Haq,M,+92 3266195852,Hepatobiliary Surgeon,272
+1162,117,Dr. Mehboob,Ahmed,M,+92 3105043568,Bariatric Surgeon,273
+1163,117,Dr. Aamer,Nabi Noor,M,+92 3036799691,Ophthalmic Surgeon,275
+1164,117,Dr. Akbar,Khan,M,+92 3014344780,Otolaryngologic (ENT) Surgeon,276
+1165,117,Dr. Javaid,Iqbal,M,+92 3058768983,Maxillofacial Surgeon,278
+1166,117,Dr. Bilal,Asghar,M,+92 3031019390,Thoracic Surgeon,279
+1167,117,Dr. Anwaar,A.Khan,M,+92 3130529109,HAnd Surgeon,281
+1168,117,Dr. Muhammad,Saeed,M,+92 3151653498,Foot And Ankle Surgeon,283
+1169,117,Dr. Waqas,Javed,M,+92 3032473445,Spinal Surgeon,284
+1170,117,Dr. Shakil,Aqil,M,+92 3310032283,Craniofacial Surgeon,286
+1171,117,Dr. Faisal,Amin Baig,M,+92 3214465024,Reconstructive Microsurgeon,287
+1172,117,Dr. Muhammad,Tahir Ibrahim,M,+92 3154525521,Laparoscopic Surgeon,289
+1173,117,Dr. Imran,Sharif,M,+92 3080843753,Robotic Surgeon,290
+1174,117,Dr. Muhammad,Jawad Saleem,M,+92 3249473333,Gastrointestinal Surgeon,292
+1175,117,Dr. Sumera,Memon,F,+92 3064708032,Fetal Surgeon,294
+1176,117,Dr. Lubna,Zubair,F,+92 3175861674,Neonatal Surgeon,295
+1177,117,Dr. Nusrat,Shah Kamal,F,+92 3550516466,Dermatologic Surgeon,297
+1178,117,Dr. Fauzia,Anjum,F,+92 3081954939,Emergency Surgeon,298
+1179,117,Dr. Fozia,Akmal,F,+92 3216993115,Proctologic Surgeon,300
+1180,117,Dr. Ayesha,Mahrukh,F,+92 3204606940,Burn Surgeon,301
+1181,117,Dr. Huma,Tasleem,F,+92 3213619185,Oral Surgeon,303
+1182,117,Dr. Shamim,Ahmed Khan,F,+92 3477425451,Peripheral Nerve Surgeon,304
+1183,117,Dr. Sitwat,Fareed,F,+92 3451198282,Transoral Surgeon,306
+1184,117,Dr. Samina,Haq,F,+92 3211869356,Chest Wall Surgeon,308
+1185,118,Dr. Muhammad,Tahir Chaudhry,M,+92 3088451300,General Surgeon,301
+1186,118,Dr. Safdar,Ali Khan,M,+92 3043755766,Trauma Surgeon,301
+1187,118,Dr. Ahmad,Raza Jawaid,M,+92 3252773233,Cardiothoracic Surgeon,302
+1188,118,Dr. Ayesha,Khan,F,+92 3559744179,Neurosurgeon,302
+1189,118,Dr. Ambreen,Haider,F,+92 3588851796,Orthopedic Surgeon,302
+1190,119,Dr. Haroon,Ayub,M,+92 3459756016,Plastic Surgeon,316
+1191,119,Dr. Salman,Kazim,M,+92 3193550224,Pediatric Surgeon,316
+1192,119,Dr. Intzar,Hussain Butt,M,+92 3062960118,Vascular Surgeon,317
+1193,119,Dr. Ghulam,Siddiq,M,+92 3013517010,Colorectal Surgeon,317
+1194,119,Dr. Rubina,Iqbal,F,+92 3203071460,Transplant Surgeon,318
+1195,119,Dr. Ayesha,Ehsan,F,+92 3565645003,Oncologic Surgeon,318
+1196,120,Dr. Nisar,Ahmed Shaikh,M,+92 3190532041,Endocrine Surgeon,331
+1197,120,Dr. Irfan,Majid,M,+92 3450691842,Urologic Surgeon,331
+1198,120,Dr. Usama,Javaid,M,+92 3269447300,Gynecologic Surgeon,332
+1199,120,Dr. Aamer,Nazir Ahmad,M,+92 3341532791,Hepatobiliary Surgeon,332
+1200,120,Dr. Shama,Munim,F,+92 3247893482,Bariatric Surgeon,333
+1201,120,Dr. Farhat,Iqbal,F,+92 3090883482,Ophthalmic Surgeon,333
+1202,121,Dr. Muhammad,Nawaz Anjum,M,+92 3246008881,Otolaryngologic (ENT) Surgeon,346
+1203,121,Dr. Raees,Farhan Mushtaq,M,+92 3322294153,Maxillofacial Surgeon,346
+1204,121,Dr. Muhammad,Burhan Ayub,M,+92 3489618613,Thoracic Surgeon,347
+1205,121,Dr. Junaid,Zaman,M,+92 3004400297,HAnd Surgeon,347
+1206,121,Dr. Sunil,Dutt Sachdev,M,+92 3394358786,Foot And Ankle Surgeon,348
+1207,121,Dr. Ghansham,Rawtani,M,+92 3093232819,Spinal Surgeon,348
+1208,121,Dr. Mukhtar,Ahmed,M,+92 3205771159,Craniofacial Surgeon,349
+1209,121,Dr. Talat,Naheed,M,+92 3544976859,Reconstructive Microsurgeon,349
+1210,121,Dr. Amir,Noor Nabi,M,+92 3581309694,Laparoscopic Surgeon,350
+1211,121,Dr. Mohammad,Zafar Rabbani,M,+92 3485464964,Robotic Surgeon,350
+1212,121,Dr. Fawad,Ur Rehman,M,+92 3410995038,Gastrointestinal Surgeon,351
+1213,121,Dr. Hassan,Shoukat Rana,M,+92 3234655418,Fetal Surgeon,351
+1214,121,Dr. Touqeer,Akbar,M,+92 3407122440,Neonatal Surgeon,352
+1215,121,Dr. Mohammad,Shaukat,M,+92 3598107268,Dermatologic Surgeon,352
+1216,121,Dr. Syed,Mohsin Ahmed,M,+92 3521555695,Emergency Surgeon,353
+1217,121,Dr. Fakhar,Naseeb,M,+92 3343511922,Proctologic Surgeon,353
+1218,121,Dr. Shariq,Sohail,M,+92 3175415157,Burn Surgeon,354
+1219,121,Dr. Aijaz,Zeeshan,M,+92 3116529469,Oral Surgeon,354
+1220,121,Dr. Pervez,Khan,M,+92 3501232015,Peripheral Nerve Surgeon,355
+1221,121,Dr. Asim,Afaq,M,+92 3371387811,Transoral Surgeon,355
+1222,121,Dr. Fazal,Ameen,M,+92 3576170972,Chest Wall Surgeon,356
+1223,121,Dr. Muhammad,Zakria,M,+92 3456367591,General Surgeon,356
+1224,121,Dr. Farrukh,Zaman,M,+92 3002565565,Trauma Surgeon,357
+1225,121,Dr. Munir,Amin Mughal,M,+92 3145404277,Cardiothoracic Surgeon,357
+1226,121,Dr. Zubair,Abbasi,M,+92 3544561490,Neurosurgeon,358
+1227,121,Dr. Saeed,Akhtar,M,+92 3409407098,Orthopedic Surgeon,358
+1228,121,Dr. Syed,Ajmal Kazmi,M,+92 3593295932,Plastic Surgeon,359
+1229,121,Dr. Shaheen,M. Mufti,M,+92 3079297835,Pediatric Surgeon,359
+1230,121,Dr. Syed,Muhammad Afaque,M,+92 3455402792,Vascular Surgeon,360
+1231,121,Dr. Muhammad,Ali Rafique,M,+92 3003725579,Colorectal Surgeon,360
+1232,121,Dr. Ifran,Bakhshi,M,+92 3090031241,Transplant Surgeon,361
+1233,121,Dr. Ahmad,Ali,M,+92 3463733126,Oncologic Surgeon,361
+1234,121,Dr. Muhammad,Asif Paracha,M,+92 3109033107,Endocrine Surgeon,362
+1235,121,Dr. Shahzad,Majeed Bhatti,M,+92 3248387648,Urologic Surgeon,362
+1236,121,Dr. Shah,Saleem,M,+92 3467620043,Gynecologic Surgeon,362
+1237,121,Dr. Maria,Shabbir,F,+92 3142741231,Hepatobiliary Surgeon,363
+1238,121,Dr. Nida,Hassan,F,+92 3027604776,Bariatric Surgeon,363
+1239,121,Dr. Azmina,Khan,F,+92 3477042598,Ophthalmic Surgeon,363
+1240,121,Dr. Sidra,Iqbal,F,+92 3533608372,Otolaryngologic (ENT) Surgeon,364
+1241,121,Dr. Jaida,Manzoor,F,+92 3581922921,Maxillofacial Surgeon,364
+1242,121,Dr. Afreen,Zubair,F,+92 3048703962,Thoracic Surgeon,364
+1243,121,Dr. Ayesha,A. Saleem,F,+92 3444332928,HAnd Surgeon,365
+1244,121,Dr. Saadia,Virk Rizvi,F,+92 3108893833,Foot And Ankle Surgeon,365
+1245,121,Dr. Sundes,Jawaid Khokhar,F,+92 3222560229,Spinal Surgeon,365
+1246,121,Dr. Sadaf,Siddique,F,+92 3501472065,Craniofacial Surgeon,366
+1247,121,Dr. Yasmeen,Shaheed,F,+92 3497585709,Reconstructive Microsurgeon,366
+1248,121,Dr. Asifa,Abbas,F,+92 3315302580,Laparoscopic Surgeon,366
+1249,122,Dr. Muhammad,Israr,M,+92 3041156107,Robotic Surgeon,376
+1250,122,Dr. Quaid,Jauhar,M,+92 3216860057,Gastrointestinal Surgeon,376
+1251,122,Dr. Zahra,Mahmood,F,+92 3238415728,Fetal Surgeon,377
+1252,122,Dr. Nosheen,Waheed,F,+92 3338314400,Neonatal Surgeon,377
+1253,122,Dr. Khadija,Khan,F,+92 3279316270,Dermatologic Surgeon,377
+1254,123,Dr. Muhammad,Usman,M,+92 3048720024,Emergency Surgeon,391
+1255,123,Dr. Muhammad,Hussain,M,+92 3149754680,Proctologic Surgeon,391
+1256,123,Dr. Kashif,Sadruddin,M,+92 3220428247,Burn Surgeon,392
+1257,123,Dr. Fahim,Khan,M,+92 3015734262,Oral Surgeon,392
+1258,123,Dr. Shahid,Khan,M,+92 3190751964,Peripheral Nerve Surgeon,393
+1259,123,Dr. Asif,Imam,M,+92 3102091841,Transoral Surgeon,393
+1260,123,Dr. Uzma,Qasim,F,+92 3353732376,Chest Wall Surgeon,394
+1261,123,Dr. Nighat,Khalid,F,+92 3013908014,General Surgeon,394
+1262,123,Dr. Bushra,Ammad Taimuri,F,+92 3329779620,Trauma Surgeon,395
+1263,123,Dr. Shazia,Riaz,F,+92 3131900780,Cardiothoracic Surgeon,395
+1264,124,Dr. Shahid,Mehmood,M,+92 3041026652,Neurosurgeon,406
+1265,124,Dr. Muhammad,Tayyab Badshah,M,+92 3027350129,Orthopedic Surgeon,406
+1266,124,Dr. Naeem,ul Hameed,M,+92 3410334033,Plastic Surgeon,407
+1267,124,Dr. Anum,Tanwir,F,+92 3175362684,Pediatric Surgeon,407
+1268,124,Dr. Alia,Bashir,F,+92 3380579385,Vascular Surgeon,408
+1269,124,Dr. Aamna,Batool Khan,F,+92 3189743196,Colorectal Surgeon,408
+1270,125,Dr. Abid,Qazi,M,+92 3326043365,Transplant Surgeon,421
+1271,125,Dr. Zahid,Asgher,M,+92 3432484902,Oncologic Surgeon,421
+1272,125,Dr. Saadia,Sharif,F,+92 3340111908,Endocrine Surgeon,422
+1273,125,Dr. Hajira,Hanif,F,+92 3050392158,Urologic Surgeon,422
+1274,125,Dr. Sumbal,Altaf,F,+92 3355487595,Gynecologic Surgeon,422
+1275,126,Dr. Sajeel,Ijaz,M,+92 3546436825,Hepatobiliary Surgeon,436
+1276,126,Dr. Muhammad,Afaq,M,+92 3141963071,Bariatric Surgeon,436
+1277,126,Dr. Mohammad,Tufail Ijaz,M,+92 3324054714,Ophthalmic Surgeon,437
+1278,126,Dr. Nazia,Rafique,F,+92 3261994061,Otolaryngologic (ENT) Surgeon,437
+1279,126,Dr. Samina,Habib,F,+92 3162793226,Maxillofacial Surgeon,438
+1280,126,Dr. Ayesha,Khalil,F,+92 3466456475,Thoracic Surgeon,438
+1281,127,Dr. Rashid,Naeem Siddiqi,M,+92 3438122176,HAnd Surgeon,446
+1282,127,Dr. Syed,Owais Alam Zaidi,M,+92 3174238027,Foot And Ankle Surgeon,446
+1283,127,Dr. Muhammad,Suhail Arif,M,+92 3197992551,Spinal Surgeon,447
+1284,127,Dr. Amjad,Saeed Mian,M,+92 3537926030,Craniofacial Surgeon,447
+1285,127,Dr. Muhammad,Asim Khan,M,+92 3469124190,Reconstructive Microsurgeon,448
+1286,127,Dr. Shahryar,Ahmad Sheikh,M,+92 3312503515,Laparoscopic Surgeon,448
+1287,127,Dr. Saad,Naveed,M,+92 3438986363,Robotic Surgeon,449
+1288,127,Dr. Ashraf,Ali Khan,M,+92 3047073304,Gastrointestinal Surgeon,449
+1289,127,Dr. Muhammad,Ramzan Ch,M,+92 3363799519,Fetal Surgeon,450
+1290,127,Dr. Nadir,Ali Syed,M,+92 3068064824,Neonatal Surgeon,450
+1291,127,Dr. Zeba,Aziz,F,+92 3551343820,Dermatologic Surgeon,450
+1292,127,Dr. Ambreen,Kashif,F,+92 3002215280,Emergency Surgeon,451
+1293,127,Dr. Nayab,Zahra,F,+92 3541694778,Proctologic Surgeon,451
+1294,127,Dr. Zuhera,Khan,F,+92 3150871412,Burn Surgeon,451
+1295,127,Dr. Shahina,Jabbar,F,+92 3452643098,Oral Surgeon,452
+1296,127,Dr. Aliya,Naseem,F,+92 3195192280,Peripheral Nerve Surgeon,452
+1297,127,Dr. Sadia,Akram,F,+92 3414071257,Transoral Surgeon,452
+1298,127,Dr. Anjum,Afshan,F,+92 3092682779,Chest Wall Surgeon,453
+1299,127,Dr. Sana,Ahmed,F,+92 3004328869,General Surgeon,453
+1300,127,Dr. Noreen,Zafar,F,+92 3397232147,Trauma Surgeon,453
+1301,128,Dr. Khalid,Ahmed Khalil,M,+92 3044966469,Cardiothoracic Surgeon,461
+1302,128,Dr. Zia,Ur Rehman,M,+92 3049770820,Neurosurgeon,461
+1303,128,Dr. Mohammad,Baqir Ali Khan,M,+92 3218495030,Orthopedic Surgeon,462
+1304,128,Dr. Humaira,Nasir,F,+92 3130128707,Plastic Surgeon,462
+1305,129,Dr. Zaman,Sherani,M,+92 3184239936,Pediatric Surgeon,471
+1306,129,Dr. Zaen,Al Abideen,M,+92 3260880216,Vascular Surgeon,471
+1307,129,Dr. Muhammad,Ashraf,M,+92 3274898320,Colorectal Surgeon,472
+1308,129,Dr. Ali,Raza Jafri,M,+92 3228533118,Transplant Surgeon,472
+1309,129,Dr. Umair,Abu Bakar Siddiq,M,+92 3205170077,Oncologic Surgeon,473
+1310,129,Dr. Shahid,Mehmood,M,+92 3316089111,Endocrine Surgeon,473
+1311,129,Dr. Shahid,Iqbal,M,+92 3585119636,Urologic Surgeon,474
+1312,129,Dr. Muhammad,A Hashmi,M,+92 3077952756,Gynecologic Surgeon,474
+1313,129,Dr. Atiq,Durrani,M,+92 3413990112,Hepatobiliary Surgeon,475
+1314,129,Dr. Abdul,Rehman,M,+92 3095206806,Bariatric Surgeon,475
+1315,129,Dr. Nayer,Mahmood,M,+92 3043054039,Ophthalmic Surgeon,476
+1316,129,Dr. Raja,Shehzad,M,+92 3004304511,Otolaryngologic (ENT) Surgeon,476
+1317,129,Dr. Shafqat,Waqar Khanzada,M,+92 3234005062,Maxillofacial Surgeon,476
+1318,129,Dr. Siraj,Salekeen,M,+92 3540499913,Thoracic Surgeon,477
+1319,129,Dr. Sayed,Javed Wasim,M,+92 3098810514,HAnd Surgeon,477
+1320,129,Dr. Nauman,Hussain Rajput,M,+92 3414554356,Foot And Ankle Surgeon,477
+1321,129,Dr. Muhammad,Tanweer Khalid,M,+92 3486955560,Spinal Surgeon,477
+1322,129,Dr. Habib,Ullah,M,+92 3433282491,Craniofacial Surgeon,478
+1323,129,Dr. Talat,Mehmood,M,+92 3458829529,Reconstructive Microsurgeon,478
+1324,129,Dr. Khalid,Mahmud Khan,M,+92 3046469189,Laparoscopic Surgeon,478
+1325,129,Dr. Syed,Muhammad Abdullah,M,+92 3113060379,Robotic Surgeon,478
+1326,129,Dr. Amir,Jalil,M,+92 3464621814,Gastrointestinal Surgeon,479
+1327,129,Dr. Akhtar,Fareed Siddiqui,M,+92 3149816744,Fetal Surgeon,479
+1328,129,Dr. Furqan,Khan,M,+92 3513609574,Neonatal Surgeon,479
+1329,129,Dr. Atif,Munir,M,+92 3475827394,Dermatologic Surgeon,479
+1330,129,Dr. Mohammad,Asim Khan,M,+92 3332476633,Emergency Surgeon,480
+1331,129,Dr. Jawed,Arshad,M,+92 3567501320,Proctologic Surgeon,480
+1332,129,Dr. Faeza,Ubaid,F,+92 3223706234,Burn Surgeon,480
+1333,129,Dr. Rubina,Sohail,F,+92 3198356300,Oral Surgeon,480
+1334,129,Dr. Sabhita,Shabbir,F,+92 3513975672,Peripheral Nerve Surgeon,481
+1335,129,Dr. Nausheen,Nabeel,F,+92 3438311600,Transoral Surgeon,481
+1336,129,Dr. Ayesha,Shahid Sheikh,F,+92 3037518962,Chest Wall Surgeon,481
+1337,129,Dr. Sabeen,Masroor,F,+92 3042291721,General Surgeon,481
+1338,129,Dr. Sadia,Mohsin,F,+92 3179995887,Trauma Surgeon,482
+1339,129,Dr. S.,Rabia,F,+92 3591951686,Cardiothoracic Surgeon,482
+1340,129,Dr. Nazeefa,Javed,F,+92 3189166273,Neurosurgeon,482
+1341,129,Dr. Shifa,Ali,F,+92 3447275136,Orthopedic Surgeon,482
+1342,130,Dr. Muhammad,Tariq Farman,M,+92 3543794375,Plastic Surgeon,491
+1343,130,Dr. Muhammad,Awaid Abid,M,+92 3345446894,Pediatric Surgeon,491
+1344,130,Dr. Iqtedar,Taufiq,M,+92 3131897451,Vascular Surgeon,491
+1345,130,Dr. Muhammad,Abid Butt,M,+92 3466174638,Colorectal Surgeon,491
+1346,130,Dr. Sohail,Siddique,M,+92 3478454567,Transplant Surgeon,492
+1347,130,Dr. Saeed,A Bajwa,M,+92 3415543128,Oncologic Surgeon,492
+1348,130,Dr. Aftab,Awan,M,+92 3137149375,Endocrine Surgeon,492
+1349,130,Dr. Munir,Ahmad,M,+92 3310715577,Urologic Surgeon,492
+1350,130,Dr. Saeed,Zameer,M,+92 3224056595,Gynecologic Surgeon,493
+1351,130,Dr. Jamal,Abdul Nasir,M,+92 3137312022,Hepatobiliary Surgeon,493
+1352,130,Dr. Fahad,Aman Khan,M,+92 3492670881,Bariatric Surgeon,493
+1353,130,Dr. Jamshed,Nasir,M,+92 3120593096,Ophthalmic Surgeon,493
+1354,130,Dr. Syed,Arsalan Khalid,M,+92 3095927144,Otolaryngologic (ENT) Surgeon,494
+1355,130,Dr. Shohab,Hyder Shaikh,M,+92 3013946340,Maxillofacial Surgeon,494
+1356,130,Dr. Muhammad,Arshad Alvi,M,+92 3075571174,Thoracic Surgeon,494
+1357,130,Dr. Naseem,Zaman,M,+92 3338150665,HAnd Surgeon,494
+1358,130,Dr. Mansoor,Ali Khan,M,+92 3252489644,Foot And Ankle Surgeon,495
+1359,130,Dr. Shahid,Hussain,M,+92 3141779667,Spinal Surgeon,495
+1360,130,Dr. Javed,Raza Gardezi,M,+92 3072922818,Craniofacial Surgeon,495
+1361,130,Dr. Najam,Ud Din,M,+92 3329652192,Reconstructive Microsurgeon,495
+1362,130,Dr. Rehan,Abbas Khan,M,+92 3244586753,Laparoscopic Surgeon,496
+1363,130,Dr. Misauq,Mazcuri,M,+92 3391236597,Robotic Surgeon,496
+1364,130,Dr. Muhammad,Farrukh,M,+92 3051864749,Gastrointestinal Surgeon,496
+1365,130,Dr. Asad,Raza Jafri,M,+92 3551482345,Fetal Surgeon,496
+1366,130,Dr. Syed,Anwar Ahmed,M,+92 3392359021,Neonatal Surgeon,497
+1367,130,Dr. Bashir,Ahmed Sheikh,M,+92 3073922166,Dermatologic Surgeon,497
+1368,130,Dr. Atif,Javed,M,+92 3111791934,Emergency Surgeon,497
+1369,130,Dr. Naseer,Ahmed Chaudhry,M,+92 3065615400,Proctologic Surgeon,497
+1370,130,Dr. Tahir,Saghir,M,+92 3242893873,Burn Surgeon,498
+1371,130,Dr. Noshad,Shaikh,M,+92 3509825131,Oral Surgeon,498
+1372,130,Dr. Asif,Ali Khan,M,+92 3382754408,Peripheral Nerve Surgeon,498
+1373,130,Dr. Muhammad,Suleman Khan,M,+92 3116707324,Transoral Surgeon,499
+1374,130,Dr. Nasir,Ahmed,M,+92 3322937293,Chest Wall Surgeon,499
+1375,130,Dr. Navaid,Akhtar,M,+92 3177374986,General Surgeon,499
+1376,130,Dr. Khalid,Maqsood,M,+92 3118678491,Trauma Surgeon,499
+1377,130,Dr. Ishfaque,Ahmed,M,+92 3007109650,Cardiothoracic Surgeon,500
+1378,130,Dr. Hannah,Pasha Memon,F,+92 3321293214,Neurosurgeon,500
+1379,130,Dr. Sakina,Abidi,F,+92 3480484308,Orthopedic Surgeon,500
+1380,130,Dr. Shenaz,Kausar,F,+92 3267262364,Plastic Surgeon,500
+1381,130,Dr. Fareeha,Khaliq Khan,F,+92 3467768807,Pediatric Surgeon,501
+1382,130,Dr. Falak,Niaz,F,+92 3224803870,Vascular Surgeon,501
+1383,130,Dr. Sarah,Ikram,F,+92 3369998984,Colorectal Surgeon,501
+1384,130,Dr. Sadaf,Sadiq,F,+92 3258048469,Transplant Surgeon,501
+1385,130,Dr. Iram,Gul,F,+92 3555146571,Oncologic Surgeon,502
+1386,130,Dr. Wajeeha,Elahi,F,+92 3473782061,Endocrine Surgeon,502
+1387,130,Dr. Intekhab,Taufiq,F,+92 3124924046,Urologic Surgeon,502
+1388,130,Dr. Memoona,Faiyaz,F,+92 3155653174,Gynecologic Surgeon,502
+1389,130,Dr. Afreen,Zubair,F,+92 3233954417,Hepatobiliary Surgeon,503
+1390,130,Dr. Farhat,Batol,F,+92 3570963457,Bariatric Surgeon,503
+1391,130,Dr. ArjamAnd,Shauq,F,+92 3326431631,Ophthalmic Surgeon,503
+1392,130,Dr. Ayisha,Kausar,F,+92 3005881234,Otolaryngologic (ENT) Surgeon,503
+1393,131,Dr. Syed,Muneeb Younus,M,+92 3245438641,Maxillofacial Surgeon,522
+1394,131,Dr. Muhammad,Jawad Zafar,M,+92 3544029485,Thoracic Surgeon,522
+1395,131,Dr. Sayeed,Ahmed,M,+92 3195630220,HAnd Surgeon,523
+1396,131,Dr. Irfan,Ahmad,M,+92 3382442301,Foot And Ankle Surgeon,523
+1397,131,Dr. Agha,Sajjad,M,+92 3228054435,Spinal Surgeon,524
+1398,131,Dr. Hira,Liaqat,F,+92 3552205452,Craniofacial Surgeon,524
+1399,131,Dr. Jah,Mirza,F,+92 3348931704,Reconstructive Microsurgeon,525
+1400,131,Dr. Yasmeen,Bhatty,F,+92 3072675699,Laparoscopic Surgeon,525
