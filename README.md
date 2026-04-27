@@ -55,7 +55,7 @@ The dashboard enables data-driven decision-making for hospital operations and re
 ---
 
 ### 🔹 1. Hospital Overview
-![Overview](q.png)
+![Overview](t.png)
 
 - KPIs: Revenue, Profit, Patients, Staff  
 - Appointment trends  
@@ -64,7 +64,7 @@ The dashboard enables data-driven decision-making for hospital operations and re
 ---
 
 ### 🔹 2. Patient Analysis
-![Patient Analysis](w.png)
+![Patient Analysis](r.png)
 
 - Age group distribution  
 - Disease-wise patient count  
@@ -83,7 +83,7 @@ The dashboard enables data-driven decision-making for hospital operations and re
 ---
 
 ### 🔹 4. Staff Analysis
-![Staff Analysis](r.png)
+![Staff Analysis](w.png)
 
 - Gender distribution  
 - Staff count by department  
@@ -92,7 +92,7 @@ The dashboard enables data-driven decision-making for hospital operations and re
 ---
 
 ### 🔹 5. Financial Analysis
-![Financial Analysis](t.png)
+![Financial Analysis](q.png)
 
 - Revenue breakdown (Appointment, Room, Surgery)  
 - Revenue trends over time  
